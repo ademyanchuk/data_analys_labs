@@ -168,4 +168,7 @@ $RECYCLE.BIN/
 # pretrained embeedings
 *.vec
 
-/data/tmp/
+*.png
+*.tex
+
+fastai
